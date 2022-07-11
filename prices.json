@@ -1,0 +1,23 @@
+{
+    "prices": [{
+            "id": "1",
+            "simbolo": "ARS Mercadopago",
+            "valor": "1"
+        },
+        {
+            "id": "2",
+            "simbolo": "USDT Wallet",
+            "valor": "200"
+        },
+        {
+            "id": "3",
+            "simbolo": "USD PayPal",
+            "valor": "210"
+        },
+        {
+            "id": "4",
+            "simbolo": "USD Payonner",
+            "valor": "205"
+        }
+    ]
+}
